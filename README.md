@@ -1,2 +1,30 @@
-# restaurant-tips-prediction-model
-Predicting restaurant tips using Excel through data analysis, visualization, and multiple regression modeling to uncover customer tipping behavior
+#  Predicting Restaurant Tips (Excel Project)
+## This project focuses on analyzing restaurant customer data to predict tip amounts using Microsoft Excel. By applying data cleaning, visualization, and regression techniques, the project builds a predictive model that helps understand tipping behavior and improve customer service strategies.
+## Objectives
+Clean and preprocess raw data
+Convert categorical variables into numeric format
+Perform exploratory data analysis (EDA)
+Identify relationships between variables using correlation
+Build a multiple regression model to predict tips
+Generate insights to improve customer satisfaction
+## Steps Performed
+Checked and handled missing values
+Removed duplicates (if any)
+Converted categorical variables into numeric using IF formulas
+Example: Male = 1, Female = 0
+Created pivot tables to analyze:
+Total tips by gender
+Tips by gender across different times (Lunch/Dinner)
+Pie chart for gender-based tip distribution
+Bar chart for time-based tipping trends
+Measured relationship between tip and other variables
+## Projects Insights
+Tips are strongly influenced by total bill amount
+Dining time (Lunch/Dinner) affects tipping patterns
+Group size impacts tip value
+Customer attributes (gender/smoking) show minor influence
+## Final Conclusion
+A predictive model that estimates restaurant tip amounts based on customer behavior, helping businesses:
+Improve service quality
+Understand customer patterns
+Make data-driven decisions
