@@ -1,5 +1,5 @@
 #  Predicting Restaurant Tips (Excel Project)
-## 
+## Project Overview
 This project focuses on analyzing restaurant customer data to predict tip amounts using Microsoft Excel. By applying data cleaning, visualization, and regression techniques, the project builds a predictive model that helps understand tipping behavior and improve customer service strategies.
 ## Data Used 
 <a href="https://github.com/PrateekSMP/restaurant-tips-prediction-model/blob/main/Restaurant%20tips%20dataset.xlsx">Dataset</a> 
