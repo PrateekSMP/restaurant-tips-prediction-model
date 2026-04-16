@@ -21,6 +21,9 @@ Tips by gender across different times (Lunch/Dinner)
 Pie chart for gender-based tip distribution
 Bar chart for time-based tipping trends
 Measured relationship between tip and other variables
+## Project Screenshots
+https://github.com/PrateekSMP/restaurant-tips-prediction-model/blob/main/Screenshot%202025-04-19%20122720.png
+https://github.com/PrateekSMP/restaurant-tips-prediction-model/blob/main/Screenshot%202026-04-16%20132406.png
 ## Projects Insights
 Tips are strongly influenced by total bill amount
 Dining time (Lunch/Dinner) affects tipping patterns
